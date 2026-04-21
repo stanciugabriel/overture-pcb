@@ -1,0 +1,50 @@
+### Footprint positions - created on 2026-04-18T17:30:41+0300 ###
+### Printed by KiCad version 9.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref            Val                          Package                                       PosX       PosY       Rot  Side
+C1               1uF                          C_0603_1608Metric                         242.1800  -125.6900   90.0000  top
+C2               1uF                          C_0603_1608Metric                         249.9550  -123.4400    0.0000  top
+C3               1uF                          C_0603_1608Metric                         240.6300  -130.0900   90.0000  top
+C4               1uF                          C_0603_1608Metric                         240.9350  -121.0400    0.0000  top
+C5               6.8uF                        C_1206_3216Metric                         226.6500  -138.1500  -90.0000  top
+C6               100nF                        C_0402_1005Metric                         233.7500  -135.6000    0.0000  top
+C7               33uF                         C_0805_2012Metric                         225.3500  -130.5000  180.0000  top
+C8               33uF                         C_0805_2012Metric                         225.3500  -128.5000  180.0000  top
+C10              100nF                        C_0402_1005Metric                         249.3800  -120.6400    0.0000  top
+C50              4.7uf                        C_1206_3216Metric                         248.3300  -132.0400    0.0000  top
+D3               ESDA25W                      SOT65P210X110-3N                          241.7450  -133.1400  180.0000  top
+D4               Schottky                     D_SOD-323                                 241.0350  -117.6900    0.0000  top
+D11              ESDA25P35-1U1M               TVS_ESDA25P35-1U1M                        249.6750  -116.9000    0.0000  top
+D50              ESDA25P35-1U1M               TVS_ESDA25P35-1U1M                        242.1800  -128.6275   90.0000  top
+J2               USB_C_Receptacle_USB2.0_16P  USB_C_Receptacle_HRO_TYPE-C-31-M-12       245.2700  -139.7000    0.0000  top
+L2               3.3uH                        IND-SMD_L7.2-W6.6_GPSR07X0                221.8000  -135.0500   90.0000  top
+M1               Stepper_Motor                JST_XH_S4B-XH-A_1x04_P2.50mm_Horizontal   222.6500  -105.3450  180.0000  top
+PN532-Module1    ~                            PinHeader_1x05_P2.54mm_Vertical           230.9700   -99.7000   90.0000  top
+Q1               STL6P3LLH6                   TRANS_STL6P3LLH6                          246.4350  -118.9900   90.0000  top
+R1               470                          R_0603_1608Metric                         240.9350  -119.4900    0.0000  top
+R2               1k                           R_1206_3216Metric                         250.7350  -118.9400    0.0000  top
+R3               100k                         R_0402_1005Metric                         236.3000  -138.2900   90.0000  top
+R4               1k                           R_1206_3216Metric                         241.7350  -123.0400  180.0000  top
+R5               22k                          R_0603_1608Metric                         235.0500  -138.0000  -90.0000  top
+R10              100K                         R_0603_1608Metric                         246.8800  -122.4900    0.0000  top
+R11              22K                          R_0603_1608Metric                         246.8800  -124.0400    0.0000  top
+R13              100                          R_0603_1608Metric                         249.9300  -121.8900    0.0000  top
+R14              10k                          R_0603_1608Metric                         197.8600  -103.3000  180.0000  top
+R15              10k                          R_0603_1608Metric                         185.5750  -106.5150  180.0000  top
+R18              10k                          R_0603_1608Metric                         189.1100  -106.5000  180.0000  top
+R19              10k                          R_0603_1608Metric                         192.6500  -106.5000  180.0000  top
+R21              4.7k                         R_0603_1608Metric                         197.4500  -123.8500   90.0000  top
+R53              100k                         R_0603_1608Metric                         249.9550  -126.5400    0.0000  top
+R54              100k                         R_0603_1608Metric                         249.9550  -124.9900    0.0000  top
+R55              100K                         R_0603_1608Metric                         250.0100  -130.0400  180.0000  top
+ST7789-Display1  ~                            PinHeader_1x08_P2.54mm_Vertical           202.3900  -138.5000  -90.0000  top
+SW1              RotaryEncoder_Switch         PinHeader_1x05_P2.54mm_Vertical           207.7400  -100.5500  -90.0000  top
+SW2              SW_Back                      PinHeader_2x01_P2.54mm_Vertical           184.7500  -103.1250   90.0000  top
+SW3              SW_Bolus                     PinHeader_2x01_P2.54mm_Vertical           188.3000  -103.1250   90.0000  top
+SW4              SW_Settings                  PinHeader_2x01_P2.54mm_Vertical           191.8500  -103.1250   90.0000  top
+U1               ~                            TMC2208                                   206.3000  -121.7500    0.0000  top
+U2               STUSB4500QTR                 QFN-24-1EP_4x4mm_P0.5mm_EP2.65x2.65mm     245.7400  -127.8300   90.0000  top
+U4               XIAO-RP2350-DIP              XIAO-RP2350-DIP                           183.5500  -120.4000  180.0000  top
+U5               TPS54308DDCT                 SOT95P280X110-6N                          230.6950  -137.8500    0.0000  top
+## End
