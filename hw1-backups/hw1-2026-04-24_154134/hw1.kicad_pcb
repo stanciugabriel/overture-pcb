@@ -7404,7 +7404,7 @@
 			(net 20 "+20_USB")
 			(pinfunction "D")
 			(pintype "passive")
-			(uuid "cff58511-a0fd-4c7d-adba-a36a9b45db65")
+			(uuid "53da4c5c-693a-457a-8ddf-7e14d70b85d9")
 		)
 		(pad "1" smd rect
 			(at 0 -0.2)
@@ -7413,7 +7413,7 @@
 			(net 20 "+20_USB")
 			(pinfunction "D")
 			(pintype "passive")
-			(uuid "9412cced-28eb-42fb-9551-eab7ea3cc93b")
+			(uuid "53da4c5c-693a-457a-8ddf-7e14d70b85d9")
 		)
 		(pad "1" smd rect
 			(at 0.325 -1.525 180)
@@ -7422,7 +7422,7 @@
 			(net 20 "+20_USB")
 			(pinfunction "D")
 			(pintype "passive")
-			(uuid "9b304ab1-d5e8-4987-8f40-042ca7fbf56a")
+			(uuid "53da4c5c-693a-457a-8ddf-7e14d70b85d9")
 		)
 		(pad "1" smd rect
 			(at 0.975 -1.525 180)
@@ -7431,7 +7431,7 @@
 			(net 20 "+20_USB")
 			(pinfunction "D")
 			(pintype "passive")
-			(uuid "caa6684f-5155-4805-b20a-231bb74aaa85")
+			(uuid "53da4c5c-693a-457a-8ddf-7e14d70b85d9")
 		)
 		(pad "2" smd rect
 			(at 0.975 1.525 180)
@@ -7458,7 +7458,7 @@
 			(net 69 "VBUS")
 			(pinfunction "S")
 			(pintype "passive")
-			(uuid "72ce1fe1-0062-4cf6-99ce-2a9927370b8f")
+			(uuid "97aaadc4-e8c3-4007-82ac-646996fe9d65")
 		)
 		(pad "3" smd rect
 			(at 0.325 1.525 180)
@@ -7467,7 +7467,7 @@
 			(net 69 "VBUS")
 			(pinfunction "S")
 			(pintype "passive")
-			(uuid "517e444f-acf0-4962-b760-b67236f6a52a")
+			(uuid "97aaadc4-e8c3-4007-82ac-646996fe9d65")
 		)
 		(embedded_fonts no)
 	)
@@ -7695,7 +7695,7 @@
 			(net 49 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "72941b78-386c-4b8d-b0c6-9561f199207e")
+			(uuid "d95fedf7-e0f0-4d2e-8881-d8ce339af40b")
 		)
 		(pad "10" thru_hole circle
 			(at 6.83 6.35)
@@ -8725,7 +8725,7 @@
 		(descr "Through hole straight pin header, 2x01, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x01 2.54mm double row")
 		(property "Reference" "SW2"
-			(at 5.060303 0.1 0)
+			(at 5.325 0.1 0)
 			(layer "F.SilkS")
 			(uuid "3e6ac2c3-b797-4c8d-9c9b-b5c83f33a7ec")
 			(effects
@@ -9424,7 +9424,7 @@
 		(descr "Through hole straight pin header, 2x01, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x01 2.54mm double row")
 		(property "Reference" "SW4"
-			(at 5.060303 0.05 0)
+			(at 5.325 0.05 0)
 			(layer "F.SilkS")
 			(uuid "2eb0d1bc-8078-44c3-a0bd-34c7fcc03abe")
 			(effects
@@ -10230,7 +10230,7 @@
 			(net 49 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "6d387be9-6b0d-40f4-ba60-09e1aba031c4")
+			(uuid "8789d3fd-5e60-4c87-91b5-ca4851b08af5")
 		)
 		(pad "29" smd rect
 			(at -2.755 -1.29 270)
@@ -10239,7 +10239,7 @@
 			(net 49 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "ced52a91-e33f-4c84-b69d-11fcbab6a802")
+			(uuid "8789d3fd-5e60-4c87-91b5-ca4851b08af5")
 		)
 		(pad "29" smd rect
 			(at -1.505 -3.79 270)
@@ -10248,7 +10248,7 @@
 			(net 49 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "d19c680a-91d4-43ab-9cf8-9f9dbb9b12e5")
+			(uuid "8789d3fd-5e60-4c87-91b5-ca4851b08af5")
 		)
 		(pad "29" smd rect
 			(at -1.505 -2.54 270)
@@ -10257,7 +10257,7 @@
 			(net 49 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "c78284e0-9eb5-4310-aaff-712ec4c14c8d")
+			(uuid "8789d3fd-5e60-4c87-91b5-ca4851b08af5")
 		)
 		(pad "29" smd rect
 			(at -1.505 -1.29 270)
@@ -10266,7 +10266,7 @@
 			(net 49 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "a408ac8f-4bef-43f3-87be-2eb10346135d")
+			(uuid "8789d3fd-5e60-4c87-91b5-ca4851b08af5")
 		)
 		(pad "29" smd rect
 			(at -0.255 -3.79 270)
@@ -10275,7 +10275,7 @@
 			(net 49 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "e70d0e31-98ea-48ce-a9ed-a4cfae00a6fd")
+			(uuid "8789d3fd-5e60-4c87-91b5-ca4851b08af5")
 		)
 		(pad "29" smd rect
 			(at -0.255 -2.54 270)
@@ -10284,7 +10284,7 @@
 			(net 49 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "70a6889f-53da-4f47-9c7a-0bee3aca3d88")
+			(uuid "8789d3fd-5e60-4c87-91b5-ca4851b08af5")
 		)
 		(pad "29" smd rect
 			(at -0.255 -1.29 270)
@@ -10293,7 +10293,7 @@
 			(net 49 "GND")
 			(pinfunction "GND")
 			(pintype "passive")
-			(uuid "6e474856-b0dc-4125-8762-c4ec90a1ee47")
+			(uuid "8789d3fd-5e60-4c87-91b5-ca4851b08af5")
 		)
 		(zone
 			(net 0)
@@ -11529,7 +11529,7 @@
 		(descr "Through hole straight pin header, 2x01, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x01 2.54mm double row")
 		(property "Reference" "SW3"
-			(at 5.010303 -0.015 0)
+			(at 5.275 -0.015 0)
 			(layer "F.SilkS")
 			(uuid "f71a2c5c-e324-45c8-9b64-ac47d6e553bc")
 			(effects
@@ -14981,7 +14981,7 @@
 			(net 50 "VDD")
 			(pinfunction "D")
 			(pintype "passive")
-			(uuid "61a0d0d7-fc23-4f49-9c0f-2a6b6ed4128f")
+			(uuid "30d8c8a5-fed2-46ad-827d-f1ae5ebbc546")
 		)
 		(pad "1" smd rect
 			(at 0 -0.2)
@@ -14990,7 +14990,7 @@
 			(net 50 "VDD")
 			(pinfunction "D")
 			(pintype "passive")
-			(uuid "4035f650-b7a7-4aae-abeb-540417fc10c6")
+			(uuid "30d8c8a5-fed2-46ad-827d-f1ae5ebbc546")
 		)
 		(pad "1" smd rect
 			(at 0.325 -1.525 180)
@@ -14999,7 +14999,7 @@
 			(net 50 "VDD")
 			(pinfunction "D")
 			(pintype "passive")
-			(uuid "c8ab7b00-1212-41d1-882a-9b1613cc61ed")
+			(uuid "30d8c8a5-fed2-46ad-827d-f1ae5ebbc546")
 		)
 		(pad "1" smd rect
 			(at 0.975 -1.525 180)
@@ -15008,7 +15008,7 @@
 			(net 50 "VDD")
 			(pinfunction "D")
 			(pintype "passive")
-			(uuid "afb0eb30-8e04-4d00-9caf-51fb9d7d04b7")
+			(uuid "30d8c8a5-fed2-46ad-827d-f1ae5ebbc546")
 		)
 		(pad "2" smd rect
 			(at 0.975 1.525 180)
@@ -15035,7 +15035,7 @@
 			(net 69 "VBUS")
 			(pinfunction "S")
 			(pintype "passive")
-			(uuid "da7e9757-a857-4fec-a6d2-6d3e435a555b")
+			(uuid "afca4d82-6100-4314-93d4-b63240780597")
 		)
 		(pad "3" smd rect
 			(at 0.325 1.525 180)
@@ -15044,7 +15044,7 @@
 			(net 69 "VBUS")
 			(pinfunction "S")
 			(pintype "passive")
-			(uuid "c19f23c7-e21b-459a-8159-0c51c2dfd05a")
+			(uuid "afca4d82-6100-4314-93d4-b63240780597")
 		)
 		(embedded_fonts no)
 	)
@@ -16027,7 +16027,7 @@
 			(net 49 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "781a685f-15eb-47fb-9df7-f6e6b3a99eca")
+			(uuid "6234dd5c-45ae-4462-b98f-7eb9c9b03567")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -3.105)
@@ -16039,7 +16039,7 @@
 			(net 49 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "3f44f9a1-fca8-4c96-b1dc-7925f8fb2fd6")
+			(uuid "6234dd5c-45ae-4462-b98f-7eb9c9b03567")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 1.075)
@@ -16051,7 +16051,7 @@
 			(net 49 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "974bf08e-9b98-429d-81b4-c4a7f2ab211d")
+			(uuid "6234dd5c-45ae-4462-b98f-7eb9c9b03567")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.wrl"
@@ -17049,7 +17049,7 @@
 			(net 49 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "7d8088aa-e6f7-4fa4-b7d4-fa54858555c9")
+			(uuid "7e91080c-389b-4e6d-8acf-e278f866fdd8")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -3.105)
@@ -17061,7 +17061,7 @@
 			(net 49 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "e5b245da-884f-4ed9-9f02-20105d12ba13")
+			(uuid "7e91080c-389b-4e6d-8acf-e278f866fdd8")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 1.075)
@@ -17073,7 +17073,7 @@
 			(net 49 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "04735844-18e3-4124-b1dc-dcfa7ca63210")
+			(uuid "7e91080c-389b-4e6d-8acf-e278f866fdd8")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.wrl"
