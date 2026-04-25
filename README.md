@@ -18,3 +18,10 @@ The board uses a dual USB-C port design to separate power and data.
 To power the motor and board, plug a compatible USB-C PD charger into the main power port. The STUSB4500 handles the 20V negotiation automatically. 
 
 To flash the ESP32, use the secondary USB-C port. Note that the primary power port does not route data lines to the ESP32 and will not show up as a COM port on your machine.
+
+## Exports
+
+The exports folder contains all the file for production:
+* hw1-bom.csv - is the Bill of Materials (formatted for JLCPCB)
+* hw1-top-pos.csv - is the Components Position File for PCB-A (formatted for JLCPCB)
+* Gerber_Archived.zip - has all the Gerber and Drill files needed for production
