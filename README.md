@@ -2,6 +2,8 @@
 
 Overture is a custom ESP32-C6 control board designed to drive a NEMA 17 stepper motor while handling NFC reading, a small display, and physical user inputs. Everything is powered through a single USB-C Power Delivery connection.
 
+![3d image](3d_image.png)
+
 ## Hardware Specs
 
 * **Microcontroller:** ESP32-C6-WROOM-1
