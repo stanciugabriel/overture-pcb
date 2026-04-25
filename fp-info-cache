@@ -1,4 +1,4 @@
-25804518655960471
+25811627454566335
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -103460,6 +103460,20 @@ IND_IHLP2525CZER8R2M01
 2
 2
 hw1_footprint
+Overture_title
+
+
+0
+0
+0
+hw1_footprint
+QFN-24-1EP_4x4mm_P0.5mm_EP2.65x2.65mm
+QFN, 24 Pin (http://www.cypress.com/file/46236/download), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+29
+25
+hw1_footprint
 SOIC127P599X175-8N
 
 
@@ -103544,6 +103558,13 @@ Untitled_2
 0
 0
 hw1_footprint
+Untitled_3
+
+
+0
+0
+0
+hw1_footprint
 XCVR_ESP32-C6-WROOM-1-N8
 
 
@@ -103578,3 +103599,10 @@ mosfetty
 0
 9
 3
+hw1_footprint
+overture_logo
+
+
+0
+0
+0
