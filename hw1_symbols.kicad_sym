@@ -1738,8 +1738,8 @@
 		)
 		(symbol "PN532_0_1"
 			(rectangle
-				(start -10.16 13.97)
-				(end 10.16 -11.43)
+				(start -10.16 8.89)
+				(end 10.16 -8.89)
 				(stroke
 					(width 0)
 					(type default)
@@ -1787,7 +1787,7 @@
 				)
 			)
 			(pin input line
-				(at 0 16.51 270)
+				(at 0 11.43 270)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -1805,7 +1805,7 @@
 				)
 			)
 			(pin input line
-				(at 0 -13.97 90)
+				(at 0 -11.43 90)
 				(length 2.54)
 				(name "GND"
 					(effects

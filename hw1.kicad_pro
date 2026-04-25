@@ -587,7 +587,7 @@
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -707,7 +707,7 @@
           "group_by": true,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -770,7 +770,7 @@
     ],
     [
       "4d4feb13-6550-4401-87b5-31c63d1fc645",
-      "Sheet_Power"
+      "Power"
     ]
   ],
   "text_variables": {}
