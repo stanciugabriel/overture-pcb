@@ -90,8 +90,8 @@
 		(uuid "b1e33a40-76b7-4182-b079-8b9ff59b6f8d")
 	)
 	(fp_rect
-		(start 5.5 -10)
-		(end 8 10)
+		(start 4.69 -10)
+		(end 7.19 10)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -177,7 +177,7 @@
 		(uuid "b2025429-b550-4764-aa3b-da3dd2f15eb0")
 	)
 	(pad "9" thru_hole circle
-		(at 6.83 -6.35)
+		(at 5.87 -6.35)
 		(size 1.7 1.7)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
@@ -185,7 +185,7 @@
 		(uuid "bc00e05f-6924-48fe-87e0-024cb57f969a")
 	)
 	(pad "9" thru_hole circle
-		(at 6.83 8.89)
+		(at 5.87 8.89)
 		(size 1.7 1.7)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
@@ -193,7 +193,7 @@
 		(uuid "0880746d-10a8-4525-b292-aba5971e8870")
 	)
 	(pad "10" thru_hole circle
-		(at 6.83 6.35)
+		(at 5.87 6.35)
 		(size 1.7 1.7)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
@@ -201,7 +201,7 @@
 		(uuid "80453de1-cf97-49f8-9463-a1077926a19a")
 	)
 	(pad "11" thru_hole circle
-		(at 6.83 3.81)
+		(at 5.87 3.81)
 		(size 1.7 1.7)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
@@ -209,7 +209,7 @@
 		(uuid "cce45773-0a51-4d24-b01e-6f0531ae4cb3")
 	)
 	(pad "12" thru_hole circle
-		(at 6.83 1.27)
+		(at 5.87 1.27)
 		(size 1.7 1.7)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
@@ -217,7 +217,7 @@
 		(uuid "3da7a9d4-b55c-44c5-a740-bfade8dfee93")
 	)
 	(pad "13" thru_hole circle
-		(at 6.83 -1.27)
+		(at 5.87 -1.27)
 		(size 1.7 1.7)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
@@ -225,7 +225,7 @@
 		(uuid "a792094a-753a-4cd6-99ab-f79abed3b8dd")
 	)
 	(pad "14" thru_hole circle
-		(at 6.83 -3.81)
+		(at 5.87 -3.81)
 		(size 1.7 1.7)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
@@ -233,20 +233,12 @@
 		(uuid "fcfecc3f-d421-4118-af10-791ca72b92fe")
 	)
 	(pad "15" thru_hole circle
-		(at 6.83 -8.89)
+		(at 5.87 -8.89)
 		(size 1.7 1.7)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "2bfa4412-9545-41b3-b789-f26de5fdb28e")
-	)
-	(group ""
-		(uuid "3ddd6f21-d791-484d-8e61-13c353a2fcb3")
-		(members "2bfa4412-9545-41b3-b789-f26de5fdb28e" "3da7a9d4-b55c-44c5-a740-bfade8dfee93"
-			"80453de1-cf97-49f8-9463-a1077926a19a" "a792094a-753a-4cd6-99ab-f79abed3b8dd"
-			"bc00e05f-6924-48fe-87e0-024cb57f969a" "cce45773-0a51-4d24-b01e-6f0531ae4cb3"
-			"fcfecc3f-d421-4118-af10-791ca72b92fe"
-		)
 	)
 	(group ""
 		(uuid "6410f9f2-4347-46bc-a2ff-f7c635fea42e")
@@ -258,7 +250,15 @@
 	)
 	(group ""
 		(uuid "8408fd93-e3df-4694-bb5c-6b0410869923")
-		(members "3ddd6f21-d791-484d-8e61-13c353a2fcb3" "6410f9f2-4347-46bc-a2ff-f7c635fea42e")
+		(members "6410f9f2-4347-46bc-a2ff-f7c635fea42e")
+	)
+	(group ""
+		(uuid "f64dd63b-3f60-4847-bf50-65f0b43cbead")
+		(members "0880746d-10a8-4525-b292-aba5971e8870" "2bfa4412-9545-41b3-b789-f26de5fdb28e"
+			"3da7a9d4-b55c-44c5-a740-bfade8dfee93" "80453de1-cf97-49f8-9463-a1077926a19a"
+			"a792094a-753a-4cd6-99ab-f79abed3b8dd" "bc00e05f-6924-48fe-87e0-024cb57f969a"
+			"cce45773-0a51-4d24-b01e-6f0531ae4cb3" "fcfecc3f-d421-4118-af10-791ca72b92fe"
+		)
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/step-files/TMC2209_SILENTSTEPSTICK.step"

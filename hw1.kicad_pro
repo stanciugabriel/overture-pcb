@@ -524,7 +524,7 @@
       "plot": "/Users/gabriel/dev/pmrust/hw1/exports/",
       "pos_files": "/Users/gabriel/dev/pmrust/hw1/exports/",
       "specctra_dsn": "",
-      "step": "hw1.step",
+      "step": "../../../Documents/hw1-3d.step",
       "svg": "",
       "vrml": ""
     },
@@ -751,6 +751,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "../website/website/versioned_docs/version-fils_en/project/2026/gabriel.stanciu2102/",
     "space_save_all_events": true,
